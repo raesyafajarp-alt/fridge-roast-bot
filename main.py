@@ -8,8 +8,9 @@ The line must be 1-200 characters, UTF-8, not only whitespace.
 import os
 
 ENTRY = (
-    "My fridge got a firmware update, rebooted for twenty minutes, "
-    "and now the touchscreen suggests recipes for food it already let rot."
+    "My fridge spent twenty minutes updating its firmware, then proudly "
+    "suggested recipes for the leftovers it let rot — smart enough to "
+    "update, too dumb to chill."
 )
 
 
